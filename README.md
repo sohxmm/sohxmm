@@ -1,7 +1,5 @@
 # 👋 Hey, I'm Soham!
 
-Welcome to my GitHub! I'm a first-year Computer Science student with a passion for building, learning, and creating cool things with tech.
-
 ### 🚀 About Me
 
 - 🧠 Curious about AI, product-building, and making tools that actually solve problems.
