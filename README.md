@@ -64,16 +64,6 @@ PHP      ██████░░░░░░░░░░  SQL     ████�
 
 ---
 
-### 📷 ESP32-CAM + Edge Impulse — Edge AI Vision System *(in progress)*
-> On-device real-time image classification — no cloud, no latency.
-
-`C++` `Arduino IDE` `ESP32-CAM` `Edge Impulse` `TensorFlow Lite`
-
-- Deploying quantised TFLite models within tight SRAM/Flash constraints
-- Exploring Edge Impulse's EON Tuner for memory-optimised inference
-
----
-
 ### 🌐 Personal Portfolio *(in progress)*
 > Scroll-controlled, animation-driven portfolio.
 
