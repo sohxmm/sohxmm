@@ -91,20 +91,6 @@ Penetration Testing fundamentals ██████░░░░░░░░░�
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Soham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohxmm&show_icons=true&theme=github_dark&hide_border=true&title_color=1F3864&icon_color=1F3864&text_color=6B6B6B&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohxmm&layout=compact&theme=github_dark&hide_border=true&title_color=1F3864&text_color=6B6B6B&bg_color=0d1117)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sohxmm&theme=github-dark-blue&hide_border=true&stroke=0d1117&ring=1F3864&fire=1F3864&currStreakLabel=1F3864)
-
-</div>
-
----
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1F3864?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-kanase-2992182b7/)
