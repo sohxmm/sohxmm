@@ -22,7 +22,7 @@ I build things at the intersection of **security**, **AI**, and **product design
 - Working on AI-native tools and clean UI/UX with React & Tailwind
 - Targeting a strong placement in software engineering or cybersecurity
 - CGPA **9.3 / 10** over three semesters
-- Aviation nerd · F1 & football fan · Filmmaker in the making
+- Aviation nerd · F1 & football fan 
 
 ---
 
