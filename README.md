@@ -29,7 +29,7 @@
 - 🧪 **AI/ML Engineering Intern** at the Software Development Cell (SwDC), KJSSE, most recently shipping a congestion-aware network routing benchmark platform from the ground up
 - 🛡️ Member of **SIG Computer Networks**, a student-run cybersecurity group, presenting on Network Security Fundamentals (OSI threat model, TLS, VPN/firewalls, packet analysis)
 - 🌱 Learning reinforcement learning, GNNs, and full-stack ML systems by shipping them, not just reading about them
-- ✈️ Outside of code: Aviation & Planespotting, Formula 1, football, and filmmaking
+- ✈️ Outside of code: Aviation & Planespotting, Formula 1, Football and Filmmaking
 
 <br>
 
