@@ -165,20 +165,6 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sohxmm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=sohxmm&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
-
-</div>
-
-<br>
-
 ## 📫 Connect
 
 <div align="center">
